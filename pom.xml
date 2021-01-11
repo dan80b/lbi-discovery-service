@@ -8,11 +8,11 @@
         <version>2.4.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.lbi.discovery</groupId>
-    <artifactId>lbi-discovery</artifactId>
+    <groupId>com.lbi</groupId>
+    <artifactId>lbi-registry</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>lbi-discovery</name>
-    <description>Locksmith British Insurance - Discovery Service</description>
+    <name>lbi-registry</name>
+    <description>Locksmith British Insurance - Registry</description>
 
     <properties>
         <java.version>1.8</java.version>
